@@ -16,11 +16,11 @@ comments: false
 ## <i class="fa fa-tag"></i> _Other Personal Details_
 
 <i class="fa fa-check"></i> Permanent Address &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; P. O. Box - AN5475, Accra-North <br>
-<i class="fa fa-check"></i> Marital Status &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; Single <br>
-<i class="fa fa-check"></i> Nationality &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; Ghanaian <br>
-<i class="fa fa-check"></i> Languages spoken &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; English, Krobo, Ga, Akan and Hausa <br>
-<i class="fa fa-check"></i> Number of children &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; None <br>
-<i class="fa fa-check"></i> Hobbies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- &nbsp; &nbsp; &nbsp; &nbsp; Teaching, solving problems with technology, playing games  <br>
+<i class="fa fa-check"></i> Marital Status &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; Single <br>
+<i class="fa fa-check"></i> Nationality &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; Ghanaian <br>
+<i class="fa fa-check"></i> Languages spoken &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; English, Krobo, Ga, Akan and Hausa <br>
+<i class="fa fa-check"></i> Number of children &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - &nbsp; &nbsp; &nbsp; &nbsp; None <br>
+<i class="fa fa-check"></i> Hobbies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- &nbsp; &nbsp; &nbsp; &nbsp; Teaching, solving problems with technology, playing games  <br>
 
 
 ## <i class="fa fa-tag"></i> _Education_

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dark-post
 title: DoItYourself (DIY) PHP Framework
 description: "DoItYourself (DIY) PHP Framework, is a minimal web application framework written in PHP targetting most developers who do not want any fancy sophisticated web framework."
 project: true
@@ -54,29 +54,29 @@ After installing all dependencies we just need to do a little bit of configurati
 
 {% highlight php %}
     <?php
-	...
-	...
+    	...
+    	...
 
-	# Paths. Make sure you put a trailing slash(/) infront of all your paths!!!
-	define('BASE_URL', 'http://localhost/~nene/diy/');
+    	# Paths. Make sure you put a trailing slash(/) infront of all your paths!!!
+    	define('BASE_URL', 'http://localhost/~nene/diy/');
 {% endhighlight %}
 
 to
 
 {% highlight php %}
     <?php
-    ...
-    ...
+        ...
+        ...
 
-    /*
-     * example: if your project is found in /var/www/html/name_of_your_project then
-     * define('BASE_URL', 'http://localhost/name_of_your_project');
-     *
-     * NB: It is assumed that your webserver's document root is /var/www/html
-     */
+        /*
+         * example: if your project is found in /var/www/html/name_of_your_project then
+         * define('BASE_URL', 'http://localhost/name_of_your_project');
+         *
+         * NB: It is assumed that your webserver's document root is /var/www/html
+         */
 
-    # Paths. Make sure you put a trailing slash(/) infront of all your paths!!!
-    define('BASE_URL', 'base_url_to_your_project');
+        # Paths. Make sure you put a trailing slash(/) infront of all your paths!!!
+        define('BASE_URL', 'base_url_to_your_project');
 {% endhighlight %}
 
 This configuration details assumes that you are going to keep the defaults as it is without touching any other path of it.
