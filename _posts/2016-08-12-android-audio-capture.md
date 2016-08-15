@@ -8,6 +8,10 @@ categories: [android]
 share: true
 comments: true
 project: false
+image:
+    feature: andy.jpg
+    credit: android-central
+    creditlink: www.androidcentral.com/
 ---
 
 The Android multimedia framework includes support for capturing and encoding a variety of common audio formats, so that you can easily integrate audio into your applications. You can record audio using the [MediaRecorder](https://developer.android.com/reference/android/media/MediaRecorder.html) APIs if supported by the device hardware and playback audio using [MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer.html). This write-up will introduce you on how to record audio and play it back.
